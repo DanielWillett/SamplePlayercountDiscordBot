@@ -121,7 +121,7 @@ namespace SamplePlayerCountBot
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine("Starting...");
-            Console.WriteLine("Bot by BlazingFlame#0001, https://github.com/DanielWillett, ");
+            Console.WriteLine("Bot by BlazingFlame#0001, https://github.com/DanielWillett, https://github.com/DanielWillett/SamplePlayercountDiscordBot.");
             Console.Title = "Sample Playercount Bot";
             Console.BackgroundColor = temp;
             Console.ForegroundColor = temp2;
